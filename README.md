@@ -4,7 +4,7 @@ It is a an application that can be used to check the shutdown,restart,login and 
 ## Installing process
 Its pretty easy just download the "SekureSetup.exe" file. It is a setup file which will install main application and all the necessary files this application needs to run properly.
 I dont have a license or anything for this app so if for some reason your antivirus blocks it then idk do whatever you want. Turn off your antivirus if you trust me or whatever.
-But i promise its not a virus or anyhting even tho its name is kinda iconic but seriously i just choose this name for fun lol.
+But i promise its not a virus or anyhting even tho its name is kinda sus but seriously i just choose this name for fun lol.
 
 ## Functions of this app
 This app has three main functions
